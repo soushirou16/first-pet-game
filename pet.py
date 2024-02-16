@@ -185,7 +185,6 @@ def moveCat(catFacingRight):
 
     screen.blit(cat, catRect)
 
-
 def catDied(catFacingRight):
     global catDeathCounter
     catDeathCounter = catDeathCounter + 0.1
@@ -217,7 +216,6 @@ while True:
     #GAME LOOP
     printObjects()
     printButtons()
-
     
     if(currStat[0] > 0):
         currStat[0] -= 0.02
