@@ -185,7 +185,6 @@ def moveCat(catFacingRight):
 
     screen.blit(cat, catRect)
 
-    #peekaboo!
 
 def catDied(catFacingRight):
     global catDeathCounter
