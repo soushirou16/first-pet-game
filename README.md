@@ -1,4 +1,3 @@
-First actual project
 2/7/2024 Started the game
 Finished it like 3 days later
 
